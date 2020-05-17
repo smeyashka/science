@@ -9,7 +9,7 @@ python3 storm.py train --dataset=/path/to/dataset --subset=train --weight=coco
 
 Resume training a model that you had trained earlier
 ```
-python3 balloon.py train --dataset=/path/to/dataset --weights=last
+python3 storm.py train --dataset=/path/to/dataset --weights=last
 ```
 
 Generate masks with `test` images
