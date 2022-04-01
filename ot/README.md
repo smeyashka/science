@@ -1,5 +1,5 @@
 # Overshooting top
-The goal is to find overshooting top on satellite IR images with Mask RCNN [1]. The data for training was created using the Bedkа algorithm [2], after which it was checked manually. Results published in [3].
+The goal is to find overshooting top on satellite IR images with Mask RCNN [1]. The data for training was created using the Bedkа algorithm [2], after which it was checked manually (can share upon request). Results published in [3].
 
 ## Command line Usage
 Train a new model starting from pre-trained COCO weights using `train` dataset 
